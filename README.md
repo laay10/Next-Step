@@ -64,7 +64,7 @@ config
 ```
 ---
 
-##  Boas Práticas que serão Aplicadas
+##  Boas Práticas Aplicadas
 
 - Separação de responsabilidades
 - Uso de DTOs
